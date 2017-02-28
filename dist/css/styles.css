@@ -1,0 +1,12 @@
+:root {
+  --color-black: rgb(0,0,0);
+  --color-blue: #32c7ff;
+}
+
+.app {
+	color: var(--color-blue);
+	text-size-adjust: none;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 200%;
+    padding: 6px 20px 30px;
+}
